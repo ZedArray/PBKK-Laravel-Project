@@ -3,7 +3,7 @@
 
     <ul>
         <li>
-            <p>Name: Hafidzuddin Rizqy Amirullah</p>
+            <p>Name: {{ $name }}</p>
         </li>
         <li>
             <p>NRP: 5025221089</p>
